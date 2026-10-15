@@ -1,2 +1,0 @@
-# nova
-i,am zain
